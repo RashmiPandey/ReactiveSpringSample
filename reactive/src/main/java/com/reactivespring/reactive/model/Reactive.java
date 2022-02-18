@@ -12,13 +12,6 @@ public class Reactive {
 	private String id;
 	private String name;
 
-	
-	public Reactive() {}
-	public Reactive(String id, String name) {
-		this.id=id;
-		this.name=name;
-	}
-
 	public String getId() {
 		return id;
 	}
